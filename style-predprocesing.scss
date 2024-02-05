@@ -1,0 +1,50 @@
+.pre-footer-block-second-content {
+    justify-content: center;
+    display: flex;
+    height: 1188px;
+    width: 1200px;
+    border: 1px solid red;
+    margin-top: 96px;
+    background-color: palevioletred;
+  
+      &__card-two {
+        position: absolute;
+        color: #0a0a0a;
+        background-color: #FBF19B;
+        width: 840px;
+        height: 852px;
+        top: 4633px;
+        left: 180px;
+        border-radius: 24px;
+      }
+      
+      &__card-one {
+        background-image: url(/images/card_flow.png);
+        Width: 350px;
+        Height: 460px;
+        Top: 4395px;
+        Left: 747px;
+        border-radius: 12px;
+        position: relative;
+      }
+      
+      
+      
+    
+  }
+  .predprocessing {
+    height: 200px;
+    background-color: aqua;
+
+        &__title {
+            font-size: 45px;
+            color: crimson;
+            width: 250px;
+            background-color: blue;
+        }
+  }         &-subtitle {
+                font-size: 25px;
+                color: yellow;
+                width: 700px;
+                background-color: rgb(255, 0, 30);
+  }
